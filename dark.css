@@ -54,14 +54,6 @@ padding: 10px;
     text-decoration: line-through;
 }
 
-/* .theme{
-    display: flex;
-    height:38px ;
-    width: 64px;
-    text-align: center;
-
-   
-} */
 
 header{
     display: flex;
@@ -91,5 +83,9 @@ body{
 
 .card-header{
     background: rgb(73, 73, 73);
+    color: #fff;
+}
+
+.fa-list-check{
     color: #fff;
 }
