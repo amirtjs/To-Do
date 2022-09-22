@@ -1,0 +1,75 @@
+i{
+    pointer-events: none;
+}
+
+
+.action{
+    font-size: 20px;
+}
+
+.fa-xmark{
+
+    font-size: 20px;
+    color: rgb(247, 66, 66);
+    font-weight: bold;
+    padding: 5px;
+    
+}
+
+.fa-check{
+    font-size: 20px;
+    color: rgb(135, 232, 70);
+    font-weight: bold;
+    padding: 5px;
+}
+
+
+button{
+    border: none;
+}
+
+.btn-action{
+    width: 42px;
+    height: 32px;
+    border-radius: 5px;
+}
+
+
+.fa-list-check{
+    font-size: 50px;
+    color: rgb(139, 139, 139);
+text-align: center;
+display: block;
+margin: auto;
+padding: 10px;
+}
+
+.empty-list__title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+/* .theme{
+    display: flex;
+    height:38px ;
+    width: 64px;
+    text-align: center;
+ 
+   
+} */
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.end-fo-tasks{
+    display: flex;
+    justify-content: space-between;
+}
